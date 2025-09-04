@@ -3,6 +3,14 @@
 ## Project Overview
 This project is part of the BirdCLEF 2025 challenge, focused on bird sound classification and identification. The system uses machine learning to identify bird species from audio recordings, contributing to biodiversity monitoring and conservation efforts.
 
+## Team Members
+| Name | GitHub |
+|------|--------|
+| Vishwas R | @vishwaspw |
+| Sangamesh Haveri | @sangameshhaveri |
+| Vinay Gowda D R | @vinayGowda173 |
+| Vikas Reddy | @vikasreddy828 |
+
 ## Project Structure
 ```
 ├── app.py                     # Flask web application for model inference
