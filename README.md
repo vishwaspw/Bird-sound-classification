@@ -6,10 +6,10 @@ This project is part of the BirdCLEF 2025 challenge, focused on bird sound class
 ## Team Members
 | Name | GitHub |
 |------|--------|
-| Vishwas R | @vishwaspw |
-| Sangamesh Haveri | @sangameshhaveri |
-| Vinay Gowda D R | @vinayGowda173 |
-| Vikas Reddy | @vikasreddy828 |
+| Vishwas R | [@vishwaspw](https://github.com/vishwaspw) |
+| Sangamesh Haveri | [@sangameshhaveri](https://github.com/sangameshhaveri) |
+| Vinay Gowda D R | [@vinayGowda173](https://github.com/@vinayGowda173) |
+| Vikas Reddy | [@vikasreddy828](https://github.com/@vikasreddy828) |
 
 ## Project Structure
 ```
@@ -78,12 +78,6 @@ The project uses the BirdCLEF 2025 dataset, which includes:
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests.
 
-## License
-[Add appropriate license information]
-
 ## Acknowledgments
 - BirdCLEF 2025 competition organizers
 - Contributing researchers and organizations
-
-## Contact
-[Add your contact information]
